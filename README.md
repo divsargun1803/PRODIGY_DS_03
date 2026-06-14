@@ -9,7 +9,7 @@ Build a **Decision Tree Classifier** to predict whether a customer will subscrib
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - **Source:** [UCI Machine Learning Repository — Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
 - **Records:** 4,521 rows | 16 features + 1 target

@@ -1,6 +1,5 @@
 # PRODIGY_DS_03 — Decision Tree Classifier for Customer Purchase Prediction
 
-> **Prodigy InfoTech Data Science Internship | Task 3**
 
 ---
 

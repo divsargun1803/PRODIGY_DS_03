@@ -117,8 +117,7 @@ jupyter notebook PRODIGY_DS_03.ipynb
 
 ## 🙋‍♀️ Author
 
-**Divsargun Kaur**  
-Data Science Intern @ Prodigy InfoTech  
+**Divsargun Kaur** — B.Tech, NIT Jalandhar (Batch 2029)
 [LinkedIn](https://www.linkedin.com/in/divsargun-kaur) | [GitHub](https://github.com/YOUR_USERNAME)
 
 ---

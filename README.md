@@ -3,7 +3,7 @@
 
 ---
 
-## 📌 Objective
+## Objective
 
 Build a **Decision Tree Classifier** to predict whether a customer will subscribe to a term deposit based on their demographic and behavioral data, using the **Bank Marketing Dataset** from the UCI Machine Learning Repository.
 
@@ -32,7 +32,7 @@ Build a **Decision Tree Classifier** to predict whether a customer will subscrib
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
@@ -44,7 +44,7 @@ Build a **Decision Tree Classifier** to predict whether a customer will subscrib
 
 ---
 
-## 🔍 Approach
+## Approach
 
 1. **Data Loading & Exploration** — Shape, dtypes, null values, class distribution
 2. **EDA** — Visualizations of age, job, education, balance, call duration vs target
@@ -55,17 +55,17 @@ Build a **Decision Tree Classifier** to predict whether a customer will subscrib
 
 ---
 
-## 📊 Results
+## Results
 
 - **Model Accuracy:** ~67–70% on test set
 - **Key Findings:**
-  - 📞 **Call Duration** is the strongest predictor — longer calls → higher subscription chance
-  - 🏆 **Previous Campaign Success** greatly increases likelihood of subscribing
-  - 💰 **Account Balance** positively correlates with subscription
+  -  **Call Duration** is the strongest predictor — longer calls → higher subscription chance
+  -  **Previous Campaign Success** greatly increases likelihood of subscribing
+  -  **Account Balance** positively correlates with subscription
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 PRODIGY_DS_03/
@@ -82,7 +82,7 @@ PRODIGY_DS_03/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 # 1. Clone the repository
@@ -98,7 +98,7 @@ jupyter notebook PRODIGY_DS_03.ipynb
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 
 ### EDA Analysis
 ![EDA](eda_analysis.png)
@@ -114,7 +114,7 @@ jupyter notebook PRODIGY_DS_03.ipynb
 
 ---
 
-## 🙋‍♀️ Author
+## Author
 
 **Divsargun Kaur** — B.Tech, NIT Jalandhar (Batch 2029)
 [LinkedIn](https://www.linkedin.com/in/divsargun-kaur) | [GitHub](https://github.com/YOUR_USERNAME)
